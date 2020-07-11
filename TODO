@@ -1,0 +1,53 @@
+! automata list
+! output recursion
+- mark_vis separate
+- connect() instead of tralloc()?
+! more regexes
+! more chars
+- naming lines (s/l)
+- expr functions
+- faster mkpar
+- visit/leave interface
+- prpos static
+- nomatch
+- equivalent implementation
+! test
+- move pos global -- allow multiple automatas to parse simultaneously
+- do positions represent mutually exclusive ways?
+- place defines
+- unite regex/type headers?
+- separate connect?
+- arrow/transition unify notation
+- handle \
+- header name convention
+- \n is blank?
+- no revisiting without marks? (no recursion)?
+! one final state?
+- const writing in array
+- better Makefile
+- pointer sizeof
+- upd. storage system
+- mkpar proof
+- | pri
+! E-reduction
+! nfa push table
+- generic error handling
+- redo nfa to reuse while build
+! cover rm DS
+! check arrow redund.
+- rm red. ()
+! non-dynamic allocation compare
+- precompiled automatas
+! table drawing
+! graph drawing
+- visualization of movement?
+- removal of automata or its parts
+- input checking for language formula
+! priorities
+! . symbol
+- DFA compare?
+- .so
+- relook register
+! .pdf eng/rus
+! asm/Lisp compare?
+! CLI options (cc, E-red., DFA, mem., table/graph, debug, pri, help, 1 fin.?, files to read, how feed strings)
